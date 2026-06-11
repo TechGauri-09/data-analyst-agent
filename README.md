@@ -8,5 +8,5 @@ An AI-powered data analysis tool built with Python, Streamlit, and Groq LLaMA.
 - Ask questions about your data in plain English
 
 # How to run
-pip install streamlit pandas plotly groq openpyxl
+pip install streamlit pandas plotly groq openpyxl,
 streamlit run app.py
